@@ -1,41 +1,9 @@
-# 9th Grade Math - Book Topics (CBSE & Telangana SSC Aligned)
+# 8th Grade Math - Book Topics/Lessons (CBSE & Telangana SSC Aligned)
 
-## Algebra
-- Solving multi-step equations
-- Inequalities and their graphs
-- Linear equations in two variables
-- Systems of linear equations (two variables)
-- Exponents and powers
-- Scientific notation
-
-## Geometry
-- Coordinate geometry (distance, midpoint, section formula)
-- Introduction to geometry basics
-- Lines and angles
-
-## Polynomials
-- Introduction to polynomials
-- Addition, subtraction, and multiplication of polynomials
-- Factorization
-
-## Quadratic Equations
-- Standard form of a quadratic
-- Solving quadratic equations by factorization
-- Graphing parabolas
-
-## Number Systems
-- Rational and irrational numbers
-- Real number operations
-- Laws of exponents with real numbers
-
-## Ratio & Proportion
-- Direct and inverse variation
-- Proportional reasoning
-
-## Statistics & Data
-- Collection and representation of data
-- Mean, median, and mode
-- Bar graphs, histograms, and pie charts
-
-# Note:
-This list is aligned with core concepts from Telangana SSC and CBSE 9th Grade Math textbooks.
+- Chapter 1: Rational Numbers
+- Chapter 2: Linear equations in one variable
+- Chapter 3: Exponents and powers
+- Chapter 4: Comparing quantities using proportion
+- Chapter 5: Square roots and cube roots
+- Chapter 6: Direct and Inverse proportions
+- Chapter 7: Algebraic Expressions
