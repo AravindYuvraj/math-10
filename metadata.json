@@ -1,0 +1,8 @@
+{
+  "name": "Science Tutor (Biology) 18th",
+  "description": "Interactive AI science tutor that answers 9th-grade biology questions based on the provided textbook. Features real-time voice chat and 3D audio visualizations.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
